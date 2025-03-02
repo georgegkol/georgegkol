@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Georgios Gkolemis  
+🎓 Graduate Student at Columbia Engineering  
+📊 Interested in Quantitative Research, Systematic Trading & Machine Learning  
+🔍 Currently working on **macro-based asset allocation** and **multi-factor trading strategies**  
 
-<!--
-**georgegkol/georgegkol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects  
+- [Macro-based Asset Allocation](https://github.com/georgegkol/Macro-based-Asset-Allocation)  
+- [Multi-factor Market Neutral Strategy](https://github.com/georgegkol/Multi-factor-Market-Neutral-Strategy)  
 
-Here are some ideas to get you started:
+## 📫 Contact Me  
+- 📧 Email: g.gkolemis@columbia.edu  
+- 💼 [LinkedIn](https://linkedin.com/in/georgios-gkolemis)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
