@@ -1,6 +1,6 @@
 # Welcome to my repository
 
-I am interested in Systematic Trading & Machine Learning and have a background in quantitative finance and mechanical engineering.
+Data science and machine learning with a background in AI engineering and quantitative finance.
 
 ## Projects  
 - [Multi-factor Market Neutral Strategy Paper](https://arxiv.org/abs/2412.12350#)
